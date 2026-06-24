@@ -1,4 +1,7 @@
-## Hi there 👋
+<img width="1450" height="886" alt="I CANT STOP GAMBLING redux" src="https://github.com/user-attachments/assets/dbac14e1-ab8e-4e28-ac17-314b7f22e810" />
+<img width="822" height="496" alt="redpurp" src="https://github.com/user-attachments/assets/eb5ab8a5-9694-4ad1-8729-8d2b469c3d8e" />
+
+
 
 <!--
 **mallowave/mallowave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
